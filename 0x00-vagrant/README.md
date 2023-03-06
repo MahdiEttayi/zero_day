@@ -1,0 +1,4 @@
+ssh 21cc4c962417@21cc4c962417.a81323d1.alx-cod.online
+
+Linux
+
